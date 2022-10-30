@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\php\\tests"
+		},
+		{
+			"path": "..\\..\\DS"
+		},
+		{
+			"path": "..\\..\\algo\\Recursion"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

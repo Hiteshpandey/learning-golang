@@ -22,7 +22,7 @@ var remainingTickets uint = conferenceTickets
 // list of UserData struct type
 //[] before UserData means it creates a list of structs instead of a single struct
 // 0 passed means the initial size of the list, that would be zero elements
-// this create and empty slice list of type UserData struct
+// this creates an empty slice list of type UserData struct
 var bookings = make([]UserData, 0)
 
 type UserData struct {
